@@ -24,7 +24,7 @@
     "venue": "NeurIPS 2024",
     "year": 2024,
     "status": "published",
-    "source_url": "https://github.com/yangkai12/SpikeSorting",
+    "source_url": "https://github.com/wholetherapi/emails_github_filesystem_pdf-tools_2321-spikesort-net-p2321x",
     "summary": "Self-supervised spike sorting for dense multi-electrode neural recordings."
   },
   {
@@ -38,7 +38,7 @@
     "venue": "ICLR 2025",
     "year": 2025,
     "status": "published",
-    "source_url": "",
+    "source_url": "https://github.com/wholetherapi/emails_github_filesystem_pdf-tools_2321-quartzkv-p2321x",
     "summary": "Training-free low-rank compression of key-value caches for long-context language models."
   },
   {
@@ -49,9 +49,9 @@
       "Maya Ortiz",
       "Tobias Lang"
     ],
-    "venue": "WSDM 2027 (under review)",
+    "venue": "WSDM 2027",
     "year": 2026,
-    "status": "under_review",
+    "status": "accepted",
     "source_url": "",
     "summary": "Calibration-aware ranking under noisy click and query distributions."
   },
