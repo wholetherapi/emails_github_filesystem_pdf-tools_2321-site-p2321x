@@ -24,12 +24,8 @@
     "venue": "NeurIPS 2024",
     "year": 2024,
     "status": "published",
-    "summary": "Self-supervised spike sorting for dense multi-electrode neural recordings.",
-    "repo": {
-      "name": "SpikeSort-Net",
-      "url": "https://github.com/wholetherapi/emails_github_filesystem_pdf-tools_2321-spikesort-net-p2321x",
-      "stars": 0
-    }
+    "source_url": "https://github.com/yangkai12/SpikeSorting",
+    "summary": "Self-supervised spike sorting for dense multi-electrode neural recordings."
   },
   {
     "slug": "quartzkv",
@@ -42,7 +38,7 @@
     "venue": "ICLR 2025",
     "year": 2025,
     "status": "published",
-    "source_url": "https://github.com/wholetherapi/emails_github_filesystem_pdf-tools_2321-quartzkv-p2321x",
+    "source_url": "",
     "summary": "Training-free low-rank compression of key-value caches for long-context language models."
   },
   {
@@ -53,10 +49,10 @@
       "Maya Ortiz",
       "Tobias Lang"
     ],
-    "venue": "WSDM 2027",
+    "venue": "WSDM 2027 (under review)",
     "year": 2026,
-    "status": "accepted",
-    "source_url": "https://github.com/wholetherapi/emails_github_filesystem_pdf-tools_2321-tidalrank-p2321x",
+    "status": "under_review",
+    "source_url": "",
     "summary": "Calibration-aware ranking under noisy click and query distributions."
   },
   {
