@@ -1,0 +1,85 @@
+[
+  {
+    "slug": "convnext-lite",
+    "title": "ConvNeXt-Lite: Efficient Vision Backbones for Edge Deployment",
+    "authors": [
+      "Patrick Lee",
+      "Maya Ortiz",
+      "Ivan Petrov"
+    ],
+    "venue": "WACV 2025",
+    "year": 2025,
+    "status": "published",
+    "source_url": "https://github.com/wholetherapi/emails_github_filesystem_pdf-tools_2321-convnext-lite-p2321x",
+    "summary": "A lightweight ConvNeXt variant with latency-aware architecture search for on-device vision."
+  },
+  {
+    "slug": "spikesort-net",
+    "title": "SpikeSort-Net: Contrastive Spike Sorting for High-Density Neural Arrays",
+    "authors": [
+      "Patrick Lee",
+      "Hannah Kim",
+      "Diego Alvarez"
+    ],
+    "venue": "NeurIPS 2024",
+    "year": 2024,
+    "status": "published",
+    "source_url": "https://github.com/yangkai12/SpikeSorting",
+    "summary": "Self-supervised spike sorting for dense multi-electrode neural recordings."
+  },
+  {
+    "slug": "quartzkv",
+    "title": "QuartzKV: Low-Rank KV-Cache Compression for Long-Context Inference",
+    "authors": [
+      "Patrick Lee",
+      "Ivan Petrov",
+      "Mei Chen"
+    ],
+    "venue": "ICLR 2025",
+    "year": 2025,
+    "status": "published",
+    "source_url": "",
+    "summary": "Training-free low-rank compression of key-value caches for long-context language models."
+  },
+  {
+    "slug": "tidalrank",
+    "title": "TidalRank: Calibrated Learning-to-Rank for Noisy Query Streams",
+    "authors": [
+      "Patrick Lee",
+      "Maya Ortiz",
+      "Tobias Lang"
+    ],
+    "venue": "WSDM 2027 (under review)",
+    "year": 2026,
+    "status": "under_review",
+    "source_url": "",
+    "summary": "Calibration-aware ranking under noisy click and query distributions."
+  },
+  {
+    "slug": "protofold-s",
+    "title": "ProtoFold-S: Structured Prototype Folding for Low-Data Protein Design",
+    "authors": [
+      "Patrick Lee",
+      "Sara Nolan"
+    ],
+    "venue": "ICML 2023",
+    "year": 2023,
+    "status": "published",
+    "source_url": "",
+    "summary": "Prototype-based generative modelling for protein backbone design with limited supervision."
+  },
+  {
+    "slug": "echogate",
+    "title": "EchoGate: Gated Attention for Streaming Speech Recognition",
+    "authors": [
+      "Patrick Lee",
+      "Lucas Meyer",
+      "Ana Costa"
+    ],
+    "venue": "Interspeech 2024",
+    "year": 2024,
+    "status": "published",
+    "source_url": "",
+    "summary": "Streaming ASR with learned gating that limits attention to relevant acoustic context."
+  }
+]

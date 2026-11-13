@@ -1,0 +1,8 @@
+---
+layout: default
+title: Publications
+---
+<h1>Publications and projects</h1>
+{% for item in site.data.registry %}
+  {% include paper-card.html item=item %}
+{% endfor %}

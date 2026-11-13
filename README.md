@@ -1,11 +1,15 @@
-# Patrick Lee — Research Portfolio
+# Patrick Lee - Research Portfolio
 
-Jekyll source for my research portfolio. Publication metadata lives in `_data/registry.json`; the homepage renders one card per item.
+Source for my personal research portfolio (Jekyll). The publication data lives in
+`_data/registry.json`; each record renders as one card on the home page.
 
-Records are validated before deploy:
+## Editing records
+
+Run the validator after editing the data file:
 
 ```bash
 python scripts/validate_registry.py _data/registry.json
 ```
 
-The generator expects a stable record shape, so every item keeps the same fixed set of keys.
+The site generator expects a fixed record shape. Adding or renaming keys will fail
+the build, so keep every record on the schema already used in the file.
